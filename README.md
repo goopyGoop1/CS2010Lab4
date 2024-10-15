@@ -21,8 +21,6 @@ g++ -0 golf GameOfLife.cpp GameFunctions.cpp -lncurses
 followed by ./golf 
 
 
-### How to play the games!!! 
-
 ## How to Play Craps
 
 Craps is a dice game where you bet on the outcome of a sequence of dice rolls. Here's a simplified breakdown of the rules:
