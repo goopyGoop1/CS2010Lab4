@@ -2,7 +2,7 @@
 This is code for a game of craps and the game of life. 
 
 
-###Files
+## Files
 Lab4Craps.cpp was made in Visual Studio Comm 22 holds the craps gane there are 4 functions in it (including the main) 
 
 This is a simple implementation of Conway's Game of Life using the ncurses library in C++. GameOfLife.cpp & GameFunctions.cpp where made in OnlineGDB. GameOfFile.cpp hold the main for this game. 
