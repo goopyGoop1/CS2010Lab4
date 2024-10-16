@@ -3,7 +3,7 @@ This is code for a game of craps and the game of life.
 
 
 ## Files
-Lab4Craps.cpp was made in Visual Studio Comm 22 holds the craps gane there are 4 functions in it (including the main) 
+Lab4Craps.cpp was made in Visual Studio Comm 22 holds the craps gane there are 4 functions in it (including the main)  THIS WAS BUILT USING C++20
 
 This is a simple implementation of Conway's Game of Life using the ncurses library in C++. GameOfLife.cpp & GameFunctions.cpp where made in OnlineGDB. GameOfFile.cpp hold the main for this game. 
 
@@ -12,9 +12,10 @@ This is a simple implementation of Conway's Game of Life using the ncurses libra
 
 
 For the Craps Game 
-g++ -o craps Lab4Craps.cpp
+g++ -o craps Lab4Craps.cpp   
 followed by ./craps 
-
+YOU MUST COMPILE WITH C++20 OR ABOVE. I would recommed using online GDB to run this code. If you are dead set on using UBUNTU you need to ensure you have a complier that handles C++20 Follow the link below to use c++20 on ubuntu
+https://gasparri.org/2020/07/30/installing-c17-and-c20-on-ubuntu-and-amazon-linux/
 
 For the Game of Life. 
 g++ -0 golf GameOfLife.cpp GameFunctions.cpp -lncurses 
